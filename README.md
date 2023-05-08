@@ -1,4 +1,4 @@
-# Notes And Tenzies App
+# NoteVault app
 
 Quick start:
 
